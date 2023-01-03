@@ -1,0 +1,24 @@
+Array Type: rand
+2
+30
+104
+982
+10193
+Array Type: near
+0
+2
+34
+404
+4554
+Array Type: reversed
+0
+2
+30
+366
+4073
+Array Type: unique
+0
+4
+57
+517
+5715
